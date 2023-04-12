@@ -62,9 +62,9 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "warning",
         "copper_edge_clearance": "error",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "warning",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -149,7 +149,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|965200|1473200|96c341ea-d8f5-4235-b4d3-937a9e124ac7|8293d306-ea23-48a7-bb2d-3a886510a474",
+      "pin_to_pin|965200|1651000|6f3d6bac-26da-4ce0-87eb-4eefb0d66136|68acb09a-a8fa-4f7a-9d17-05630cc8869f"
+    ],
     "meta": {
       "version": 0
     },
@@ -345,7 +348,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "warning",
       "similar_labels": "warning",
       "unannotated": "error",
       "unit_value_mismatch": "error",
@@ -455,6 +458,15 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -462,6 +474,31 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "58be380a-4a3a-4b30-b3f5-a03bc3bf2660",
+      ""
+    ],
+    [
+      "bdd2bf4d-fded-4f6c-9725-0b2ab500c01f",
+      "IO connectors Encoder user SW"
+    ],
+    [
+      "4ed62e66-fa83-4b09-acc7-20ea7048491e",
+      "STM32F7 MCU"
+    ],
+    [
+      "dddbbc1f-c1ff-4580-b49f-4f8b36600f57",
+      "SDRAM JTAG SD card EEPROM"
+    ],
+    [
+      "905201e7-921c-4a04-8e23-b281298c7e45",
+      "TFT LCD Audio USB"
+    ],
+    [
+      "f4df9f45-4042-48c4-9389-9fb254914404",
+      "Ethernet PHY"
+    ]
+  ],
   "text_variables": {}
 }
