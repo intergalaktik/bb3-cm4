@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "EEZ_DIB_MCU_r3B4-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/EEZ_DIB_MCU_r3B4-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "EEZ_DIB_BP3C_r3B3-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/EEZ_DIB_BP3C_r3B3-eagle-import.kicad_sym")(options "")(descr ""))
 )

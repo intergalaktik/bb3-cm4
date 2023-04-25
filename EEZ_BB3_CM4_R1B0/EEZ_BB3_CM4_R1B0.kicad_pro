@@ -420,16 +420,8 @@
       "IO connectors Encoder user SW"
     ],
     [
-      "5cdee218-4a8f-4978-817e-cf0a173a0e88",
-      "EEZ_DIB_BP3C_r3B3_2"
-    ],
-    [
       "4ed62e66-fa83-4b09-acc7-20ea7048491e",
       "STM32F7 MCU"
-    ],
-    [
-      "bfb59c28-082a-4340-80ed-4ab9ff987f6c",
-      "EEZ_DIB_BP3C_r3B3_3"
     ],
     [
       "dddbbc1f-c1ff-4580-b49f-4f8b36600f57",
@@ -444,8 +436,12 @@
       "Ethernet PHY"
     ],
     [
-      "a588ce08-ec68-4022-ac9e-1dd61baf1d2d",
-      "BP3C"
+      "5cdee218-4a8f-4978-817e-cf0a173a0e88",
+      "EEZ_DIB_BP3C_r3B3_2"
+    ],
+    [
+      "bfb59c28-082a-4340-80ed-4ab9ff987f6c",
+      "EEZ_DIB_BP3C_r3B3_3"
     ]
   ],
   "text_variables": {}

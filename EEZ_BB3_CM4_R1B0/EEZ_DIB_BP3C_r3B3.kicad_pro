@@ -426,7 +426,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "EEZ_DIB_BP3C_r3B3.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -454,7 +454,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
