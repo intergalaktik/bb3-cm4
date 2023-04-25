@@ -251,9 +251,6 @@
     (path "/bdd2bf4d-fded-4f6c-9725-0b2ab500c01f/6f2f19ab-f7d9-431a-b888-0086a9e8f11b"
       (reference "#FRAME1") (unit 2) (value "DINA4_L") (footprint "EEZ_DIB_MCU_r3B4:")
     )
-    (path "/4ed62e66-fa83-4b09-acc7-20ea7048491e/afbdd5ee-da4f-4832-bdaf-47ba5fda7cb1"
-      (reference "#FRAME2") (unit 1) (value "DINA4_L") (footprint "EEZ_DIB_MCU_r3B4:")
-    )
     (path "/4ed62e66-fa83-4b09-acc7-20ea7048491e/4f8c4014-42c2-473c-897f-7bc47e023e46"
       (reference "#FRAME2") (unit 2) (value "DINA4_L") (footprint "EEZ_DIB_MCU_r3B4:")
     )
