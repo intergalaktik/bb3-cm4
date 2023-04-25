@@ -1,0 +1,12 @@
+(version 1)
+(rule "class 0:0"
+  (condition "A.NetClass == 'default' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.2032mm)))
+
+(rule "class 1:1"
+  (condition "A.NetClass == 'diff' && B.NetClass == 'diff'")
+  (constraint clearance (min 0.2032mm)))
+
+(rule "class 2:2"
+  (condition "A.NetClass == 'gnd' && B.NetClass == 'gnd'")
+  (constraint clearance (min 0.2032mm)))
