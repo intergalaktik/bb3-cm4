@@ -1092,7 +1092,7 @@
     (effects (font (size 1.27 1.0795)) (justify left bottom))
     (uuid 489eab7b-7152-49ce-81f6-9762c4a860ca)
   )
-  (text "SDRAM, JTAG, I2C EEPROM, SD Card" (at 182.88 170.18 0)
+  (text "SDRAM" (at 182.88 170.18 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 906c13cb-28e8-40d3-8441-14fdddbb6c9c)
   )
