@@ -59,6 +59,23 @@
     )
   )
 
+  (sheet (at 67.31 78.74) (size 45.72 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4fa14b62-9505-4857-82d9-8b729da152fe)
+    (property "Sheetname" "CM4_IO_slow" (at 67.31 78.0284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cm4_io_slow.kicad_sch" (at 67.31 98.3746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_DIB_MCU_r3B4"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "12"))
+      )
+    )
+  )
+
   (sheet (at 181.61 144.78) (size 12.7 3.81) (fields_autoplaced)
     (stroke (width 0) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -72,6 +89,23 @@
     (instances
       (project "EEZ_DIB_MCU_r3B4"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 153.67 81.28) (size 39.37 16.51) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9b152c98-01ec-4b60-83a1-93e47a843d25)
+    (property "Sheetname" "CM4_SOM_Connectors" (at 153.67 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cm4_SoM_connectors.kicad_sch" (at 153.67 98.3746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_DIB_MCU_r3B4"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "11"))
       )
     )
   )
@@ -106,6 +140,23 @@
     (instances
       (project "EEZ_DIB_MCU_r3B4"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 66.04 45.72) (size 46.99 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c364ee5c-a013-435e-9d7b-1985eb1026ac)
+    (property "Sheetname" "CM4_IO_fast" (at 66.04 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cm4_io_fast.kicad_sch" (at 66.04 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_DIB_MCU_r3B4"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "13"))
       )
     )
   )
