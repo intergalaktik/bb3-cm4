@@ -1118,12 +1118,6 @@
     (path "/f4df9f45-4042-48c4-9389-9fb254914404/1566a0e7-0e3b-415d-b583-40c8d111f739"
       (reference "L3") (unit 1) (value "BLM18AG102SH1D") (footprint "EEZ_DIB_MCU_r3B4:BEAD0603")
     )
-    (path "/bdd2bf4d-fded-4f6c-9725-0b2ab500c01f/81d701d6-069b-4857-83c6-6536d84f1ca2"
-      (reference "LABEL1") (unit 1) (value "HR000002") (footprint "EEZ_DIB_MCU_r3B4:CERT-SMALL-SILK")
-    )
-    (path "/5cdee218-4a8f-4978-817e-cf0a173a0e88/ee76c7a0-acc8-4fc6-ba59-2fb8530cabc1"
-      (reference "LABEL201") (unit 1) (value "HR000002") (footprint "EEZ_DIB_BP3C_r3B3:CERT-SMALL-SILK")
-    )
     (path "/905201e7-921c-4a04-8e23-b281298c7e45/20a43298-821b-4dbb-bfeb-a2467e7fc8c7"
       (reference "LCD1") (unit 1) (value "505110-4091") (footprint "EEZ_DIB_MCU_r3B4:FPC_40")
     )
