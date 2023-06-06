@@ -5829,7 +5829,7 @@
           (reference "#PWR011") (unit 1)
         )
       )
-      (project "EEZ_DIB_MCU_r3B4"
+      (project "EEZ_BB3_CM4_SoM"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/9b152c98-01ec-4b60-83a1-93e47a843d25"
           (reference "#PWR011") (unit 1)
         )
@@ -5970,7 +5970,7 @@
           (reference "J2") (unit 1)
         )
       )
-      (project "EEZ_DIB_MCU_r3B4"
+      (project "EEZ_BB3_CM4_SoM"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/9b152c98-01ec-4b60-83a1-93e47a843d25"
           (reference "J11") (unit 1)
         )
@@ -6111,7 +6111,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "EEZ_DIB_MCU_r3B4"
+      (project "EEZ_BB3_CM4_SoM"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/9b152c98-01ec-4b60-83a1-93e47a843d25"
           (reference "J10") (unit 1)
         )

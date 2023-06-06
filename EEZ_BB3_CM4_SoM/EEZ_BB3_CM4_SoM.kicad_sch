@@ -1,0 +1,82 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 58be380a-4a3a-4b30-b3f5-a03bc3bf2660)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 80.01 144.78) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4ed62e66-fa83-4b09-acc7-20ea7048491e)
+    (property "Sheetname" "STM32F7 MCU" (at 80.01 144.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "STM32F7_MCU.kicad_sch" (at 80.01 149.1746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_BB3_CM4_SoM"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 153.67 81.28) (size 39.37 16.51) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9b152c98-01ec-4b60-83a1-93e47a843d25)
+    (property "Sheetname" "CM4_SOM_Connectors" (at 153.67 80.5684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cm4_SoM_connectors.kicad_sch" (at 153.67 98.3746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_BB3_CM4_SoM"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 130.81 144.78) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dddbbc1f-c1ff-4580-b49f-4f8b36600f57)
+    (property "Sheetname" "SDRAM" (at 130.81 144.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "SDRAM.kicad_sch" (at 130.81 149.1746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_BB3_CM4_SoM"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 232.41 144.78) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f4df9f45-4042-48c4-9389-9fb254914404)
+    (property "Sheetname" "Ethernet PHY" (at 232.41 144.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Ethernet_PHY.kicad_sch" (at 232.41 149.1746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "EEZ_BB3_CM4_SoM"
+        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660" (page "6"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

@@ -355,9 +355,6 @@
     (pin "1" (uuid 07d7a5b4-901c-4919-a1d4-514a49490ab0))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY036") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/2fa03a7e-e777-436f-afd0-9920c2120f49"
           (reference "#SUPPLY040") (unit 1)
         )
@@ -390,9 +387,6 @@
     (pin "8" (uuid 7dd18469-5957-45e9-9cf9-49fdd8c3fb97))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "IC8") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/2fa03a7e-e777-436f-afd0-9920c2120f49"
           (reference "IC8") (unit 1)
         )
@@ -419,9 +413,6 @@
     (pin "2" (uuid f77b9448-0f6d-40e7-b540-d247ffa24a6f))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "C40") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/2fa03a7e-e777-436f-afd0-9920c2120f49"
           (reference "C40") (unit 1)
         )
@@ -447,9 +438,6 @@
     (pin "1" (uuid 6c93c18a-a63c-4a9e-9dad-ccad43d7f185))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#+3V0318") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/2fa03a7e-e777-436f-afd0-9920c2120f49"
           (reference "#+3V03") (unit 1)
         )
@@ -475,9 +463,6 @@
     (pin "1" (uuid 39b0a4cc-dca0-4e9c-9a23-1efd9a478bc2))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY039") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/2fa03a7e-e777-436f-afd0-9920c2120f49"
           (reference "#SUPPLY036") (unit 1)
         )
@@ -503,9 +488,6 @@
     (pin "1" (uuid 44846068-5914-4342-8509-1c6c32141825))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY040") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/2fa03a7e-e777-436f-afd0-9920c2120f49"
           (reference "#SUPPLY039") (unit 1)
         )

@@ -544,9 +544,6 @@
     (pin "2" (uuid d1b7811e-bcf9-4d48-8d37-b4c6da71bbc6))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "R24") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "R24") (unit 1)
         )
@@ -573,9 +570,6 @@
     (pin "2" (uuid 9acae8c8-0435-4b72-b2de-1fb562c01fff))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "C41") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "C41") (unit 1)
         )
@@ -601,9 +595,6 @@
     (pin "1" (uuid d7b4b3e6-ccbf-403d-9678-3026199d0152))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY041") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "#SUPPLY038") (unit 1)
         )
@@ -629,9 +620,6 @@
     (pin "1" (uuid b145ce7d-a6b4-4489-b1d8-3c72b0d9bc80))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY038") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "#SUPPLY041") (unit 1)
         )
@@ -657,9 +645,6 @@
     (pin "1" (uuid 6fff304c-71c4-4fae-9c35-ec0413a9e64f))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#+3V0319") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "#+3V04") (unit 1)
         )
@@ -686,9 +671,6 @@
     (pin "2" (uuid c69f94ed-b58a-49ec-ba1e-e156f7f47084))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "R23") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "R23") (unit 1)
         )
@@ -714,9 +696,6 @@
     (pin "1" (uuid b6c39948-a273-4c50-a79c-21111fc685b2))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY037") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "#SUPPLY037") (unit 1)
         )
@@ -755,9 +734,6 @@
     (pin "SW2" (uuid 82d1d728-bc2b-4ea8-b12f-4bc5ac785ceb))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "J1") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "J1") (unit 1)
         )
@@ -783,9 +759,6 @@
     (pin "1" (uuid 963ab337-9a74-4db4-b65e-25665ce9b33b))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/dddbbc1f-c1ff-4580-b49f-4f8b36600f57"
-          (reference "#SUPPLY043") (unit 1)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/c3aaf8f4-9ae3-4a27-ae4b-c3e6990e2425"
           (reference "#SUPPLY043") (unit 1)
         )

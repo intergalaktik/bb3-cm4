@@ -1083,9 +1083,6 @@
     (pin "200" (uuid 40c1d268-ff2b-4c42-a10b-2bc9d3f43ae4))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/9b152c98-01ec-4b60-83a1-93e47a843d25"
-          (reference "Module1") (unit 2)
-        )
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/4fa14b62-9505-4857-82d9-8b729da152fe"
           (reference "Module1") (unit 2)
         )

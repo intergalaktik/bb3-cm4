@@ -550,20 +550,8 @@
       "IO connectors Encoder user SW"
     ],
     [
-      "4ed62e66-fa83-4b09-acc7-20ea7048491e",
-      "STM32F7 MCU"
-    ],
-    [
-      "dddbbc1f-c1ff-4580-b49f-4f8b36600f57",
-      "SDRAM"
-    ],
-    [
       "905201e7-921c-4a04-8e23-b281298c7e45",
       "TFT LCD Audio USB"
-    ],
-    [
-      "f4df9f45-4042-48c4-9389-9fb254914404",
-      "Ethernet PHY"
     ],
     [
       "2fa03a7e-e777-436f-afd0-9920c2120f49",
@@ -580,10 +568,6 @@
     [
       "b81c6957-169a-4ded-90bd-8546b86f332e",
       "PSU"
-    ],
-    [
-      "9b152c98-01ec-4b60-83a1-93e47a843d25",
-      "CM4_SOM_Connectors"
     ],
     [
       "4fa14b62-9505-4857-82d9-8b729da152fe",
