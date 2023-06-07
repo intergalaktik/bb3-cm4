@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "EEZ_DIB_MCU_r3B4")(type "KiCad")(uri "$(KIPRJMOD)/EEZ_DIB_MCU_r3B4.pretty")(options "")(descr ""))
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "conn-fci")(type "KiCad")(uri "${KIPRJMOD}/footprints/hdmi-d/conn-fci.pretty")(options "")(descr ""))
 )

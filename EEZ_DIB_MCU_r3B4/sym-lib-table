@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "EEZ_DIB_MCU_r3B4-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/EEZ_DIB_MCU_r3B4-eagle-import.kicad_sym")(options "")(descr ""))
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "hdmi-d")(type "Legacy")(uri "${KIPRJMOD}/footprints/hdmi-d/hdmi-d.lib")(options "")(descr ""))
+  (lib (name "icn6211-interface_display_extra")(type "KiCad")(uri "${KIPRJMOD}/footprints/ICN6211/icn6211-interface_display_extra.kicad_sym")(options "")(descr ""))
 )

@@ -621,7 +621,7 @@
   (symbol (lib_id "EEZ_DIB_MCU_r3B4-eagle-import:+3V3") (at 140.97 60.96 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c492824f-4e90-419c-b1eb-d342f17fbb1a)
-    (property "Reference" "#+3V039" (at 140.97 60.96 0)
+    (property "Reference" "#+3V07" (at 140.97 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 140.335 58.42 90)
