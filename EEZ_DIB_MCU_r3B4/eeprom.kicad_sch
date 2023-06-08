@@ -403,7 +403,7 @@
     (property "Value" "100n" (at 159.639 112.649 90)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "EEZ_DIB_MCU_r3B4:C0603" (at 160.02 110.49 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 160.02 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 160.02 110.49 0)

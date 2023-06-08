@@ -430,7 +430,7 @@
     (property "Value" "N.C." (at 129.54 95.123 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "EEZ_DIB_MCU_r3B4:R0805" (at 132.08 93.98 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 132.08 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 132.08 93.98 0)
