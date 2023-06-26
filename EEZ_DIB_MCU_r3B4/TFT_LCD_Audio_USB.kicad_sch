@@ -2988,6 +2988,10 @@
     (effects (font (size 1.778 1.5113)) (justify left bottom))
     (uuid 5687bb05-b396-4df9-94c6-b53cae936a10)
   )
+  (text "Missing?" (at 173.99 63.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 71be1b3f-ca63-42cc-af53-244d0d21c89f)
+  )
   (text "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)"
     (at 20.32 194.31 0)
     (effects (font (size 1.27 1.0795)) (justify left bottom))

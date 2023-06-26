@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-065860";"";
+"REFERENCE";"505110-4091";"";
+"TraceParts.PartTitle";"0.5 FPC ZIF BTM CONT EMBT PKG 40Ckt";"";
+"TraceParts.InstanceId";"90-06062020-0658602N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"0.5 FPC ZIF BTM CONT EMBT PKG 40Ckt";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-06062020-065860";"";

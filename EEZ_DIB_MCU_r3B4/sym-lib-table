@@ -4,4 +4,5 @@
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
   (lib (name "hdmi-d")(type "Legacy")(uri "${KIPRJMOD}/footprints/hdmi-d/hdmi-d.lib")(options "")(descr ""))
   (lib (name "icn6211-interface_display_extra")(type "KiCad")(uri "${KIPRJMOD}/footprints/ICN6211/icn6211-interface_display_extra.kicad_sym")(options "")(descr ""))
+  (lib (name "HR911130A")(type "KiCad")(uri "${KIPRJMOD}/footprints/HR911130A/HR911130A.kicad_sym")(options "")(descr ""))
 )
