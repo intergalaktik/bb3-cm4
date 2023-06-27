@@ -11206,8 +11206,8 @@
     (property "Datasheet" "" (at 152.4 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 24da1569-f1e6-42cc-ab3d-21a2aad9f82a))
-    (pin "2" (uuid 81054f0e-102a-4fbc-9784-19095700e249))
+    (pin "1" (uuid 61e4a90a-f3a1-4678-aca7-362c113215a8))
+    (pin "2" (uuid 53ff7fa8-2f91-47c3-8af6-582f258ca55e))
     (instances
       (project "EEZ_DIB_MCU_r3B4"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/bdd2bf4d-fded-4f6c-9725-0b2ab500c01f"
