@@ -351,6 +351,7 @@
   (net 253 "unconnected-(J4-Pin_9-Pad9)")
   (net 254 "unconnected-(J4-Pin_11-Pad11)")
   (net 255 "unconnected-(J4-Pin_12-Pad12)")
+  (net 256 "unconnected-(Module1A-SD_DAT3-Pad61)")
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 034f2029-377c-4826-b914-c61350e8f0d3)
@@ -483,6 +484,11 @@
       (net 4 "+5V") (pinfunction "IN") (pintype "input") (solder_mask_margin 0.0635) (tstamp c522df01-d0b6-4752-b400-62408229bda2))
     (pad "4" smd roundrect (at 0 -2.38 90) (size 5.8 6.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.00875862069)
       (net 117 "CM4_3.3V") (pinfunction "OUT") (pintype "passive") (solder_mask_margin 0.0635) (tstamp 35281e40-bfae-4061-ae29-f6664930b85f))
+    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_SMD.3dshapes/TO-252-2.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "EEZ_DIB_MCU_r3B4:DO214AA" (layer "F.Cu")
@@ -1563,7 +1569,7 @@
     (pad "60" smd rect (at 1.08 -19.7) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "GND") (pintype "power_in") (tstamp c6d6b7c6-968a-4290-8257-9e246777138d))
     (pad "61" smd rect (at -2 -19.3) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 22 "SDMMC1_D0") (pinfunction "SD_DAT3") (pintype "passive") (tstamp 99f18eb9-3fb0-45bf-9390-1e09cd5d0618))
+      (net 256 "unconnected-(Module1A-SD_DAT3-Pad61)") (pinfunction "SD_DAT3") (pintype "passive+no_connect") (tstamp 99f18eb9-3fb0-45bf-9390-1e09cd5d0618))
     (pad "62" smd rect (at 1.08 -19.3) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 27 "SDMMC1_CMD") (pinfunction "SD_CMD") (pintype "passive") (tstamp 744e3447-8b3f-46ea-b8fd-ef7d14c0a28c))
     (pad "63" smd rect (at -2 -18.9) (size 0.2 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
@@ -3298,6 +3304,11 @@
       (net 4 "+5V") (pinfunction "+") (pintype "passive") (solder_mask_margin 0.0635) (tstamp 7a384b62-9c72-49f6-83f3-7001f1de3016))
     (pad "2" smd roundrect (at 1.9812 0 270) (size 2.8702 0.762) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06666666667)
       (net 1 "GND") (pinfunction "-") (pintype "passive") (solder_mask_margin 0.0635) (tstamp 33d009ab-f348-4aea-8d68-7c6501c3379d))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/CP_Elec_5x4.4.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "EEZ_DIB_MCU_r3B4:EC1206" (layer "F.Cu")
@@ -3429,6 +3440,11 @@
     (pad "5" thru_hole roundrect (at 7 0) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.25)
       (chamfer_ratio 0.2928932188) (chamfer top_left top_right bottom_left bottom_right)
       (net 51 "Net-(IC1-IO4)") (pinfunction "1") (pintype "passive") (solder_mask_margin 0.0635) (tstamp 18cd8819-3ac3-4077-b61c-ad2c21d05abd))
+    (model "${KIPRJMOD}/footprints/3D/138370836-659-691322110005/691322110005.stp"
+      (offset (xyz 0 -3.5 3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "EEZ_DIB_MCU_r3B4:DBV5" (layer "F.Cu")
@@ -4104,6 +4120,11 @@
       (net 117 "CM4_3.3V") (pinfunction "+") (pintype "passive") (solder_mask_margin 0.0635) (tstamp 8926d7da-898e-4afd-9a62-a890d5f7bbc7))
     (pad "2" smd roundrect (at 1.9812 0 180) (size 2.8702 0.762) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.06666666667)
       (net 1 "GND") (pinfunction "-") (pintype "passive") (solder_mask_margin 0.0635) (tstamp aabf4857-5624-4260-b9c9-b91d7f9c024d))
+    (model ":KICAD7_3DMODEL_DIR:Capacitor_SMD.3dshapes/CP_Elec_5x4.4.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "EEZ_DIB_MCU_r3B4:SOT23-BEC" (layer "F.Cu")
@@ -5141,9 +5162,14 @@
       (net 1 "GND") (pinfunction "Pin_22") (pintype "passive") (tstamp e8d15b0e-b399-4f60-9608-4b1d2a4f5c7c))
     (pad "MP" smd rect (at -7.15 1.4) (size 1.8 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da70638f-9d94-4a99-b14d-b1a3a90c341c))
     (pad "MP" smd rect (at 7.15 1.4) (size 1.8 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5495f2bc-7376-4efe-b675-f6b84d1e5857))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Connector_FFC-FPC.3dshapes/Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Connector_FFC-FPC.3dshapes/TE_2-84953-2_1x22-1MP_P1.0mm_Horizontal.wrl"
+      (offset (xyz 0 -0.5 0))
+      (scale (xyz 0.5 0.9 0.5))
       (rotate (xyz 0 0 0))
     )
   )
@@ -5390,7 +5416,7 @@
     (at 44.48 96.67 -90)
     (property "Sheetfile" "IO_connectors_Encoder_user_SW.kicad_sch")
     (property "Sheetname" "IO connectors Encoder user SW")
-    (path "/bdd2bf4d-fded-4f6c-9725-0b2ab500c01f/53f9d140-326a-4bc3-9f6a-33984b2889e3")
+    (path "/bdd2bf4d-fded-4f6c-9725-0b2ab500c01f/b7cb631b-cd72-4e6c-8b80-813fc3794c3f")
     (fp_text reference "IC3" (at -0.23 -3.61 -90) (layer "F.SilkS")
         (effects (font (size 1.1557 1.1557) (thickness 0.1143)) (justify left))
       (tstamp 12a46e0c-eba8-4173-99be-514eabb7d475)
@@ -13685,7 +13711,8 @@
   (segment (start 112.583333 111.823333) (end 112.583333 111.8894) (width 0.127) (layer "B.Cu") (net 21) (tstamp 3fda3c6b-eba7-4c34-836f-0fd3117dbead))
   (segment (start 105.1 104.34) (end 112.583333 111.823333) (width 0.127) (layer "B.Cu") (net 21) (tstamp 4932bb3d-c526-4950-b896-d0799172d4c5))
   (segment (start 96.96 104.35) (end 98.54 104.35) (width 0.127) (layer "B.Cu") (net 21) (tstamp ef888b1c-ce37-44c9-ab34-52cad4a605e2))
-  (segment (start 94.4 110.4) (end 94.42 110.42) (width 0.127) (layer "F.Cu") (net 22) (tstamp 1c0e762a-d08b-49a4-9a89-fcff4b9c848c))
+  (segment (start 94.42 110.42) (end 94.4 110.4) (width 0.127) (layer "F.Cu") (net 22) (tstamp 2d1dacb5-e320-4fd4-8d41-e8b30e0aa97c))
+  (segment (start 94.4 110.4) (end 94.4 109.66) (width 0.127) (layer "F.Cu") (net 22) (tstamp 3c7aa5e1-6961-418e-a47f-0937f6f75a81))
   (segment (start 89.77 126.11) (end 92.18 128.52) (width 0.127) (layer "F.Cu") (net 22) (tstamp ae2f08aa-4b93-4931-b0a4-fd727ae919a8))
   (segment (start 80.04 126.11) (end 89.77 126.11) (width 0.127) (layer "F.Cu") (net 22) (tstamp c7593daf-ff6b-4a29-a037-0a215f945e6b))
   (via (at 94.42 110.42) (size 0.42) (drill 0.2) (layers "F.Cu" "B.Cu") (net 22) (tstamp 516fa3da-4297-4077-a1d7-bd68c436f05d))
