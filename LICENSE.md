@@ -1,5 +1,5 @@
 
-## ULX4M series
+## BB3 CM3 board
 
 This hardware is licensed under CERN-OHL-S v2 or later.
 
