@@ -4,6 +4,14 @@
 
   (paper "User" 302.311 220.269)
 
+  (title_block
+    (title "BB3 CM3")
+    (date "2023-06-28")
+    (rev "v001")
+    (company "Intergalaktik d.o.o.")
+    (comment 1 "This hardware is licensed under CERN-OHL-S v2 or later.")
+  )
+
   (lib_symbols
     (symbol "EEZ_DIB_MCU_r3B4-eagle-import:+3V3" (power) (in_bom yes) (on_board yes)
       (property "Reference" "#+3V3" (at 0 0 0)
@@ -2992,11 +3000,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 71be1b3f-ca63-42cc-af53-244d0d21c89f)
   )
-  (text "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)"
-    (at 20.32 194.31 0)
-    (effects (font (size 1.27 1.0795)) (justify left bottom))
-    (uuid 720a52e8-c1de-4840-8326-baea93641307)
-  )
   (text "Pull-down to disconnect\nVBUS in bootloader mode" (at 192.405 50.165 0)
     (effects (font (size 1.27 1.0795)) (justify left bottom))
     (uuid 757f5e1e-b181-4ef6-a9b3-83fe06b61839)
@@ -3014,17 +3017,9 @@
     (effects (font (size 1.27 1.0795)) (justify left bottom))
     (uuid 804cb7e1-24d7-42ab-b870-cdbd1b38fbdb)
   )
-  (text "Repository: https://github.com/eez-open" (at 20.32 198.12 0)
-    (effects (font (size 1.27 1.0795)) (justify left bottom))
-    (uuid 92e2ec74-732c-4ed6-8e28-33106b8778d7)
-  )
   (text "Vfb = 0.204 V" (at 71.12 47.625 0)
     (effects (font (size 1.27 1.0795)) (justify left bottom))
     (uuid 936f892d-2d3e-4e71-bd66-aa1171651f3d)
-  )
-  (text "More info at http://www.envox.hr/eez" (at 20.32 196.215 0)
-    (effects (font (size 1.27 1.0795)) (justify left bottom))
-    (uuid a053bdac-89c6-4745-bc8e-082509372991)
   )
   (text "USB OTG port" (at 172.72 25.4 0)
     (effects (font (size 1.778 1.5113)) (justify left bottom))
@@ -3697,30 +3692,6 @@
       (project "EEZ_DIB_MCU_r3B4"
         (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/905201e7-921c-4a04-8e23-b281298c7e45"
           (reference "IC13") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "EEZ_DIB_MCU_r3B4-eagle-import:DINA4_L") (at 180.34 200.66 0) (unit 2)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2f186a0e-d69b-4876-8a28-2697336f6800)
-    (property "Reference" "#FRAME4" (at 180.34 200.66 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "DINA4_L" (at 180.34 200.66 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "EEZ_DIB_MCU_r3B4:" (at 180.34 200.66 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 180.34 200.66 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "EEZ_DIB_MCU_r3B4"
-        (path "/58be380a-4a3a-4b30-b3f5-a03bc3bf2660/905201e7-921c-4a04-8e23-b281298c7e45"
-          (reference "#FRAME4") (unit 2)
         )
       )
     )

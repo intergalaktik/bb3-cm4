@@ -5,6 +5,14 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "BB3 CM4")
+    (date "2023-06-28")
+    (rev "v001")
+    (company "Intergalaktik d.o.o.")
+    (comment 1 "This hardware is licensed under CERN-OHL-S v2 or later.")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" power)

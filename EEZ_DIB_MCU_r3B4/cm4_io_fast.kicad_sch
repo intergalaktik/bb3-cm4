@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "BB3 CM3")
+    (date "2023-06-28")
+    (rev "v001")
+    (company "Intergalaktik d.o.o.")
+    (comment 1 "This hardware is licensed under CERN-OHL-S v2 or later.")
+  )
+
   (lib_symbols
     (symbol "CM4IO:ComputeModule4-CM4" (in_bom yes) (on_board yes)
       (property "Reference" "Module" (at 113.03 -68.58 0)
