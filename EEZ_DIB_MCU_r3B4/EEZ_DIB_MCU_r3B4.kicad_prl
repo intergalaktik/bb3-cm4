@@ -64,7 +64,7 @@
       35
     ],
     "visible_layers": "ffdffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "EEZ_DIB_MCU_r3B4.kicad_prl",
