@@ -5,4 +5,7 @@
   (lib (name "hdmi-d")(type "Legacy")(uri "${KIPRJMOD}/footprints/hdmi-d/hdmi-d.lib")(options "")(descr ""))
   (lib (name "icn6211-interface_display_extra")(type "KiCad")(uri "${KIPRJMOD}/footprints/ICN6211/icn6211-interface_display_extra.kicad_sym")(options "")(descr ""))
   (lib (name "HR911130A")(type "KiCad")(uri "${KIPRJMOD}/footprints/HR911130A/HR911130A.kicad_sym")(options "")(descr ""))
+  (lib (name "USB1086-GF-B_REVA")(type "KiCad")(uri "${KIPRJMOD}/footprints/PCIe-over-USB-USB1086-GF-B/USB1086-GF-B_REVA/USB1086-GF-B_REVA.kicad_sym")(options "")(descr ""))
+  (lib (name "1586041-6")(type "KiCad")(uri "${KIPRJMOD}/footprints/PCIe_power_1586041-6/1586041-6/1586041-6.kicad_sym")(options "")(descr ""))
+  (lib (name "1586040-6")(type "KiCad")(uri "${KIPRJMOD}/footprints/PCIe_power_1586041-6/1586040-6/1586040-6.kicad_sym")(options "")(descr ""))
 )
