@@ -11,4 +11,5 @@
   (lib (name "nlnet")(type "KiCad")(uri "${KIPRJMOD}/footprints/logo/nlnet.pretty")(options "")(descr ""))
   (lib (name "kicad")(type "KiCad")(uri "${KIPRJMOD}/footprints/logo/kicad")(options "")(descr ""))
   (lib (name "intergalaktik")(type "KiCad")(uri "${KIPRJMOD}/footprints/logo/intergalaktik")(options "")(descr ""))
+  (lib (name "EEZ")(type "KiCad")(uri "${KIPRJMOD}/footprints/logo/EEZ")(options "")(descr ""))
 )
