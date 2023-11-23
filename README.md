@@ -13,3 +13,19 @@
 ![CM4](https://github.com/intergalaktik/bb3-cm4/blob/main/IMG_20231118_170432.jpg)
 
 ![ULX4M](https://github.com/intergalaktik/bb3-cm4/blob/main/IMG_20231118_170348.jpg)
+
+## Work on this board is financed by NLnet foundation
+
+![NLnet](https://github.com/intergalaktik/ulx4m/blob/ulx4m-ls/pic/banner-320x120.png)
+
+https://nlnet.nl/project/BB3-CM4
+
+## Check up our blogposts
+
+## Contact us
+
+Discord: https://discord.gg/qwMUk6W
+
+## ULX4M
+
+https://github.com/intergalaktik/ulx4m
