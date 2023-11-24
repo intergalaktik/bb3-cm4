@@ -14,6 +14,15 @@
 
 ![ULX4M](https://github.com/intergalaktik/bb3-cm4/blob/main/IMG_20231118_170348.jpg)
 
+Tested and working on CM4 and ULX4M
+
+HDMI, USB, Ethernet
+
+Currently not working / not tested
+
+DSI, LCD, SD, PCIe, GPIO
+
+
 ## Work on this board is financed by NLnet foundation
 
 ![NLnet](https://nlnet.nl/logo/banner.png)
