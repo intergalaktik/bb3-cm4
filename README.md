@@ -16,12 +16,11 @@
 
 Tested and working on CM4 and ULX4M
 
-HDMI, USB, Ethernet
+HDMI, USB, Ethernet, DSI
 
 Currently not working / not tested
 
-DSI, LCD, SD, PCIe, GPIO
-
+LCD, SD, PCIe, GPIO
 
 ## Work on this board is financed by NLnet foundation
 
