@@ -14,6 +14,10 @@
 
 ![ULX4M](https://github.com/intergalaktik/bb3-cm4/blob/main/IMG_20231118_170348.jpg)
 
+![BB3](https://github.com/intergalaktik/bb3-cm4/blob/main/BB3-CM4.jpg)
+
+![BB3_CM4](https://github.com/intergalaktik/bb3-cm4/blob/main/BB3-CM4_in_case.jpg)
+
 Tested and working on CM4 and ULX4M
 
 HDMI, USB, Ethernet, DSI
