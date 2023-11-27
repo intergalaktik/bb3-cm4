@@ -26,6 +26,10 @@ Currently not working / not tested
 
 SPI1, SPI2, LCD, SD, PCIe, GPIO
 
+Some pins like PWR_START ( that is needed for starting meanwell power supplys ) are connected to CAM pins on CM4 connector
+
+https://youtu.be/SRumQEken4A?si=kqTtNezlvHsmelDW
+
 ## Work on this board is financed by NLnet foundation
 
 ![NLnet](https://nlnet.nl/logo/banner.png)
