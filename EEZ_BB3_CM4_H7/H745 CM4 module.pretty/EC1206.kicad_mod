@@ -1,0 +1,78 @@
+(footprint "EC1206" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "<b>CAPACITOR</b>")
+  (fp_text reference "REF**" (at -2.7432 -1.143) (layer "F.SilkS")
+      (effects (font (size 1.016 1.016) (thickness 0.1524)) (justify left bottom))
+    (tstamp 378eff2c-ba38-4dc9-bdc6-a393c2391795)
+  )
+  (fp_text value "EC1206" (at -3.4925 0.635) (layer "F.Fab")
+      (effects (font (size 1.1684 1.1684) (thickness 0.1016)) (justify left bottom))
+    (tstamp 8778daec-2de5-4f0e-a716-fdb1f1576d29)
+  )
+  (fp_poly
+    (pts
+      (xy -0.1999 0.4001)
+      (xy 0.1999 0.4001)
+      (xy 0.1999 -0.4001)
+      (xy -0.1999 -0.4001)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Adhes") (tstamp e6ce09d8-5e91-4c93-a4cb-2f66cf9ed2ab))
+  (fp_poly
+    (pts
+      (xy -2.4892 1.143)
+      (xy -2.3368 1.143)
+      (xy -2.3368 -1.143)
+      (xy -2.4892 -1.143)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp b38e1312-34e2-4aff-8cc3-240153a5d21d))
+  (fp_poly
+    (pts
+      (xy -0.4445 1.143)
+      (xy 0 1.143)
+      (xy 0 -1.143)
+      (xy -0.4445 -1.143)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp 2c54131c-f357-4341-80bb-189cdfe06ab5))
+  (fp_line (start -2.473 -1.11) (end 2.473 -1.11)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp caca0512-8e27-42fa-834c-d24187222cd6))
+  (fp_line (start -2.473 1.11) (end -2.473 -1.11)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp f1494418-e78b-40d1-becd-6f7e1d02f3d7))
+  (fp_line (start 2.473 -1.11) (end 2.473 1.11)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp d5849e2c-b7d7-4317-9adc-3fa80a944dc5))
+  (fp_line (start 2.473 1.11) (end -2.473 1.11)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp adc5592d-d589-4668-b11d-b6827c81e40c))
+  (fp_line (start -0.965 -0.787) (end 0.965 -0.787)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp eb858952-e1b2-4850-8bd1-12315b51d495))
+  (fp_line (start -0.965 0.787) (end 0.965 0.787)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp cc85986a-0554-42a8-b9c4-27998aa74543))
+  (fp_poly
+    (pts
+      (xy -1.7018 0.8509)
+      (xy -0.9517 0.8509)
+      (xy -0.9517 -0.8491)
+      (xy -1.7018 -0.8491)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 7c9c6e7e-f621-42ad-bcfa-6641d544994f))
+  (fp_poly
+    (pts
+      (xy 0.9517 0.8491)
+      (xy 1.7018 0.8491)
+      (xy 1.7018 -0.8509)
+      (xy 0.9517 -0.8509)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 4dfdcddd-cf00-4cc8-9900-1288351cdff2))
+  (pad "+" smd roundrect (at -1.4 0) (size 1.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03175)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 8e1c6c54-69ef-4d03-bb4b-8d78967f565b))
+  (pad "-" smd roundrect (at 1.4 0) (size 1.6 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03175)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp eda301ae-d48f-4a3c-9010-20f9274efe8d))
+  (model "/home/denis/BACKUP/Envox/Customers/1/Envox/Kicad/3d-models/EC1206_kemet.step"
+    (offset (xyz 1.524 0.889 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
+)

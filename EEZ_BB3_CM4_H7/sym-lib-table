@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Envox H745 Master MCU r2B6-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Envox H745 Master MCU r2B6-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.kicad_sym")(options "")(descr ""))
+)

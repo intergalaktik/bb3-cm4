@@ -1,0 +1,157 @@
+(footprint "LED_0805" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "I%2fO_expanders,_Isolated_PS,_RS485.kicad_sch")
+  (property "Sheetname" "I/O expanders, Isolated PS, RS485")
+  (attr smd)
+  (fp_text reference "REF**" (at -2.286 -1.9685 90) (layer "F.SilkS")
+      (effects (font (size 1.016 1.016) (thickness 0.1524)) (justify left bottom))
+    (tstamp 2ed63470-afbd-432f-85c6-be4b20a8bc9d)
+  )
+  (fp_text value "N.C." (at 2.1844 2.0828 90) (layer "F.Fab")
+      (effects (font (size 0.8128 0.8128) (thickness 0.1524) bold) (justify left bottom))
+    (tstamp 96ae70ba-66cf-481d-b195-0c632553ce93)
+  )
+  (fp_line (start -0.9144 0) (end 0.9144 0)
+    (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp 62acd9c1-8479-4030-ab60-b624eb28b264))
+  (fp_rect (start -0.9144 -1.8796) (end 0.9144 1.8796)
+    (stroke (width 0.1524) (type default)) (fill none) (layer "F.SilkS") (tstamp bbd10ce8-63ba-4ffc-b2dd-89609217fadb))
+  (fp_poly
+    (pts
+      (xy -0.1508 0)
+      (xy 0.1508 0)
+      (xy 0.1508 -0.2254)
+      (xy -0.1508 -0.2254)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp 9128dbda-2d2c-4d91-b0aa-44b69efa05cd))
+  (fp_line (start -0.9525 -1.905) (end 0.9525 -1.905)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp 307a6d18-0476-490c-848c-8f58960217cf))
+  (fp_line (start -0.9525 0) (end -0.9525 -1.905)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp 545876bb-780c-4983-9a8f-78efb9adfd92))
+  (fp_line (start -0.9525 1.905) (end -0.9525 0)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp 448eea6f-1f4f-4709-a315-aebdc5ee5d62))
+  (fp_line (start 0.9525 -1.905) (end 0.9525 0)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp d73f1fc6-8dd3-4e6b-8813-bac9ee7e0004))
+  (fp_line (start 0.9525 0) (end 0.9525 1.905)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp b117a441-c9de-4c8a-9b02-1e6a65659cf0))
+  (fp_line (start 0.9525 1.905) (end -0.9525 1.905)
+    (stroke (width 0.127) (type solid)) (layer "F.CrtYd") (tstamp 4a791361-1d5c-457d-9d34-6a264c1d096f))
+  (fp_line (start -0.575 0.5) (end -0.575 -0.925)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp 33520daa-d031-4a84-897b-7d18fe8a6647))
+  (fp_line (start 0.575 -0.525) (end 0.575 0.525)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp c50394ec-e6be-428f-a2e0-c4cdf1f04cd8))
+  (fp_arc (start -0.35 0.925) (mid -0.000001 0.625027) (end 0.35 0.924998)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp f91953da-b39b-4439-b999-03a1fb0651b2))
+  (fp_arc (start 0.35 -0.924998) (mid -0.000001 -0.625027) (end -0.35 -0.925)
+    (stroke (width 0.1016) (type solid)) (layer "F.Fab") (tstamp 10c45908-4b2b-4a10-8ded-0261d55556b5))
+  (fp_circle (center -0.45 -0.85) (end -0.347 -0.85)
+    (stroke (width 0.1016) (type solid)) (fill none) (layer "F.Fab") (tstamp f5d1df50-ab32-491d-be76-1f90f19601ca))
+  (fp_poly
+    (pts
+      (xy -0.625 -0.925)
+      (xy -0.3 -0.925)
+      (xy -0.3 -1)
+      (xy -0.625 -1)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 188b718c-7076-42c0-b9fc-b95e81ec5b6c))
+  (fp_poly
+    (pts
+      (xy -0.625 1)
+      (xy -0.3 1)
+      (xy -0.3 0.5)
+      (xy -0.625 0.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 77c3ffab-bbe9-4826-b178-4f0e65f50b44))
+  (fp_poly
+    (pts
+      (xy -0.6 -0.5)
+      (xy -0.3 -0.5)
+      (xy -0.3 -0.8)
+      (xy -0.6 -0.8)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 1261be26-6ce1-407e-b76f-9b6d1938355e))
+  (fp_poly
+    (pts
+      (xy -0.325 -0.5)
+      (xy -0.175 -0.5)
+      (xy -0.175 -0.75)
+      (xy -0.325 -0.75)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp db225d05-7c7f-4872-a618-dd21a3bbb0de))
+  (fp_poly
+    (pts
+      (xy -0.325 0.75)
+      (xy -0.175 0.75)
+      (xy -0.175 0.5)
+      (xy -0.325 0.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp bf5e18ce-d905-45f9-ab7c-82f70b77cf39))
+  (fp_poly
+    (pts
+      (xy -0.2 -0.5)
+      (xy 0.2 -0.5)
+      (xy 0.2 -0.675)
+      (xy -0.2 -0.675)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp d656a308-8492-4f45-8090-b4e5bbc424ec))
+  (fp_poly
+    (pts
+      (xy -0.2 0.675)
+      (xy 0.2 0.675)
+      (xy 0.2 0.5)
+      (xy -0.2 0.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp cebc7984-7fad-4c5d-a353-d0bbc6c2c39c))
+  (fp_poly
+    (pts
+      (xy 0.175 -0.5)
+      (xy 0.325 -0.5)
+      (xy 0.325 -0.75)
+      (xy 0.175 -0.75)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp eab0bb9b-75d9-4b48-84a9-1359baf60d45))
+  (fp_poly
+    (pts
+      (xy 0.175 0.75)
+      (xy 0.325 0.75)
+      (xy 0.325 0.5)
+      (xy 0.175 0.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp c9f379a0-bbec-407e-a0dc-b50d80e1fc8f))
+  (fp_poly
+    (pts
+      (xy 0.3 -0.5)
+      (xy 0.625 -0.5)
+      (xy 0.625 -1)
+      (xy 0.3 -1)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp ef62a28f-c2e1-48c7-ae89-534bf94c678a))
+  (fp_poly
+    (pts
+      (xy 0.3 1)
+      (xy 0.625 1)
+      (xy 0.625 0.5)
+      (xy 0.3 0.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp b6bb4c9c-9b59-43d0-ba88-dce0e4fece24))
+  (pad "A" smd roundrect (at 0 1.05) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04233333333)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp f3938862-3f73-475f-8be5-2b55a5224bfd))
+  (pad "C" smd roundrect (at 0 -1.05) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.04233333333)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp c686efdf-de02-4d12-bb16-4c9d0b7eea16))
+  (model "/home/denis/BACKUP/Envox/Customers/1/Envox/Kicad/3d-models/LTST-C170KGKT.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
+)
