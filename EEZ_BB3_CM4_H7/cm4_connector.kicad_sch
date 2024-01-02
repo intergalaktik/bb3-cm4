@@ -2889,6 +2889,10 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 3b857611-25a2-4285-8e21-d900281a28ad)
   )
+  (text "SD_DETECT" (at 116.078 76.962 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b251761a-b660-4f0f-84a8-8b1fc22c4da5)
+  )
 
   (global_label "GND" (shape input) (at 167.64 33.02 180)
     (effects (font (size 1.524 1.524)) (justify right))
