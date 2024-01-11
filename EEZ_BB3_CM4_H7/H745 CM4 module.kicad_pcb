@@ -3146,11 +3146,6 @@
       (net 11 "GND") (pinfunction "GND") (pintype "passive") (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 4fe4940f-f552-493c-9d54-f19d1346821d))
     (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
-    (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.wrl"
-      (offset (xyz 0 0 0))
       (scale (xyz 0.26 0.26 0.26))
       (rotate (xyz 0 0 0))
     )
@@ -10714,7 +10709,7 @@
     (pad "S2" smd rect locked (at -10.275 -1.355) (size 0.35 0.66) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 811de3ff-1c54-4aff-8375-f1749576ba28))
     (pad "S3" smd rect locked (at 10.275 1.355) (size 0.35 0.66) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c974c996-8262-4328-8850-395a2141e736))
     (pad "S4" smd rect locked (at 10.275 -1.355) (size 0.35 0.66) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 64db3d83-8030-4bc5-84a2-986bb428d9e9))
-    (model "/home/goran/Projects/bb3-cm4/EEZ_DIB_MCU_r3B4/CM4IO.3dshapes/DF40C-100DP.stp"
+    (model "../EEZ_DIB_MCU_r3B4/CM4IO.3dshapes/DF40C-100DP.stp"
       (offset (xyz 6.8 -0.9 0.7))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
@@ -14238,11 +14233,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD7_3DMODEL_DIR}/Package_SO.3dshapes/PowerIntegrations_SO-8.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
   )
 
   (footprint "CM4IO:HRS_DF40C-100DP-0.4V(51)" locked (layer "B.Cu")
@@ -14493,7 +14483,7 @@
     (pad "S2" smd rect locked (at -10.275 -1.355) (size 0.35 0.66) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e9554c7c-af5c-4eca-8320-3a4b037bcc7d))
     (pad "S3" smd rect locked (at 10.275 1.355) (size 0.35 0.66) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c2528fd2-5fed-4f66-afcf-a496b99d4faa))
     (pad "S4" smd rect locked (at 10.275 -1.355) (size 0.35 0.66) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 503c9a74-ce9f-4c8f-97aa-3a5a62af85bf))
-    (model "/home/goran/Projects/bb3-cm4/EEZ_DIB_MCU_r3B4/CM4IO.3dshapes/DF40C-100DP.stp"
+    (model "../EEZ_DIB_MCU_r3B4/CM4IO.3dshapes/DF40C-100DP.stp"
       (offset (xyz 6.8 -0.9 0.7))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
