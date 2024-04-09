@@ -3057,6 +3057,11 @@
     (uuid ff2929a9-86b4-4889-8d73-f839fdd774c6)
   )
 
+  (text "USB_OTG_FS_PSO\nUSB_OTG_FS_OC\nUSB_OTG_FS_VBUS\nUSB_OTG_FS_ID"
+    (at 123.19 30.48 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0a8dff08-04e6-4897-b108-41613a31b152)
+  )
   (text "CM4 needs to provide 3.3V to CM4 IO board" (at 122.555 140.97 90)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 3b857611-25a2-4285-8e21-d900281a28ad)
