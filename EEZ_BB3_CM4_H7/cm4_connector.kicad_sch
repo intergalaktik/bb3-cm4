@@ -2046,6 +2046,7 @@
     )
   )
 
+
   (junction (at 157.48 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 2f37570b-8289-442b-8955-1cbf7234b826)
   )
@@ -2055,6 +2056,10 @@
   (junction (at 161.29 128.27) (diameter 0) (color 0 0 0 0)
     (uuid d52781b7-7895-420f-b486-887f1c46c727)
   )
+
+  (no_connect (at 261.62 27.94) (uuid 1f0309bc-51ce-4e02-bb96-8ec422424c6c))
+  (no_connect (at 194.31 119.38) (uuid 8592e7e0-378e-4868-ae47-2584926731dd))
+  (no_connect (at 261.62 30.48) (uuid aa9538c0-e9e0-411d-bb5f-a7876ccb1cf0))
 
   (wire (pts (xy 167.64 88.9) (xy 168.91 88.9))
     (stroke (width 0) (type default))
