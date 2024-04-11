@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Envox H745 Master MCU r2B6-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Envox H745 Master MCU r2B6-eagle-import.kicad_sym")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "EEZ_DIB_MCU_r3B4-eagle-import")(type "KiCad")(uri "/home/goran/Projects/bb3-cm4/EEZ_DIB_MCU_r3B4/EEZ_DIB_MCU_r3B4-eagle-import.kicad_sym")(options "")(descr ""))
 )
